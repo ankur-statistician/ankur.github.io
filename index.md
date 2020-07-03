@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ankur-statistician/ankur.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+title: Welcome to the world of Ankur!
+description: Know your future with the help of your History.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
